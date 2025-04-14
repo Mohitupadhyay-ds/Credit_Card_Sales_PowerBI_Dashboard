@@ -1,4 +1,4 @@
-# Credit Card_PowerBI Dashboard📊
+# Credit Card PowerBI Dashboard📊
 ![ChatGPT Image Apr 12, 2025, 12_39_33 PM](https://github.com/user-attachments/assets/ed969cdf-4522-4e54-b064-75a05938a0be)
 
 # **Project Objective** :
